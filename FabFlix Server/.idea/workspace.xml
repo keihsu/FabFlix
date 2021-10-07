@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebef9416-32e5-4020-9548-507e05cc51b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YKP2eWzMrjlu2ycwOEAy76YvrB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/edu.uci.ics.KENNEH3.service.gateway.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-c config.yaml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebef9416-32e5-4020-9548-507e05cc51b0" name="Default Changelist" comment="" />
+      <created>1582688106521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582688106521</updated>
+      <workItem from="1582688108997" duration="1532000" />
+      <workItem from="1582690549542" duration="4099000" />
+      <workItem from="1582743647106" duration="3554000" />
+      <workItem from="1582832620621" duration="26354000" />
+      <workItem from="1583361086333" duration="790000" />
+      <workItem from="1583381054759" duration="713000" />
+      <workItem from="1583410909842" duration="33000" />
+      <workItem from="1583412444224" duration="797000" />
+      <workItem from="1583522072298" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1002" y="405" key="#Auto_Import" timestamp="1582842951143">
+      <screen x="0" y="23" width="3440" height="1364" />
+    </state>
+    <state x="1002" y="405" key="#Auto_Import/0.23.3440.1364@0.23.3440.1364" timestamp="1582842951143" />
+    <state x="360" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582860493566">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state x="360" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1044@0.23.1792.1044" timestamp="1582860493566" />
+    <state x="1445" y="428" key="#com.intellij.ide.util.MemberChooser" timestamp="1582836483847">
+      <screen x="0" y="23" width="3440" height="1364" />
+    </state>
+    <state x="1445" y="428" key="#com.intellij.ide.util.MemberChooser/0.23.3440.1364@0.23.3440.1364" timestamp="1582836483847" />
+    <state width="1750" height="517" key="GridCell.Tab.0.bottom" timestamp="1582864838400">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1750" height="517" key="GridCell.Tab.0.bottom/0.23.1792.1044@0.23.1792.1044" timestamp="1582864838400" />
+    <state width="1750" height="517" key="GridCell.Tab.0.center" timestamp="1582864838399">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1750" height="517" key="GridCell.Tab.0.center/0.23.1792.1044@0.23.1792.1044" timestamp="1582864838399" />
+    <state width="1750" height="517" key="GridCell.Tab.0.left" timestamp="1582864838399">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1750" height="517" key="GridCell.Tab.0.left/0.23.1792.1044@0.23.1792.1044" timestamp="1582864838399" />
+    <state width="1750" height="517" key="GridCell.Tab.0.right" timestamp="1582864838400">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1750" height="517" key="GridCell.Tab.0.right/0.23.1792.1044@0.23.1792.1044" timestamp="1582864838400" />
+    <state x="1229" y="487" key="SettingsEditor" timestamp="1582690615916">
+      <screen x="0" y="23" width="3440" height="1364" />
+    </state>
+    <state x="1229" y="487" key="SettingsEditor/0.23.3440.1364@0.23.3440.1364" timestamp="1582690615916" />
+    <state x="2256" y="537" key="com.intellij.ide.util.TipDialog" timestamp="1582743649127">
+      <screen x="0" y="23" width="3440" height="1364" />
+    </state>
+    <state x="2256" y="537" key="com.intellij.ide.util.TipDialog/0.23.3440.1364@0.23.3440.1364" timestamp="1582743649127" />
+    <state x="1898" y="386" width="670" height="676" key="search.everywhere.popup" timestamp="1582841937745">
+      <screen x="0" y="23" width="3440" height="1364" />
+    </state>
+    <state x="1898" y="386" width="670" height="676" key="search.everywhere.popup/0.23.3440.1364@0.23.3440.1364" timestamp="1582841937745" />
+  </component>
+</project>
